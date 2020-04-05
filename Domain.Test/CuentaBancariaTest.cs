@@ -19,8 +19,8 @@ namespace Domain.Test
             cuenta.Numero = "111";
             cuenta.Nombre = "Ahorro Ejemplo";
             cuenta.Ciudad = "Valledupar";
-            cuenta.Consignar(100000);
-            Assert.AreEqual(100000, cuenta.Saldo);
+            cuenta.Consignar(100000,"Bogota");
+            Assert.AreEqual(90000, cuenta.Saldo);
         }
 
         [Test]
@@ -30,7 +30,7 @@ namespace Domain.Test
             cuenta.Numero = "111";
             cuenta.Nombre = "Ahorro Ejemplo";
             cuenta.Ciudad = "Bogota";
-            cuenta.Consignar(100000);
+            cuenta.Consignar(100000,"valledupar");
             Assert.AreEqual(100000, cuenta.Saldo);
         }
 

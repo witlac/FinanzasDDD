@@ -23,7 +23,7 @@ namespace Application
             if (cuenta == null)
             {
 
-                CuentaBancaria cuentaNueva = new CuentaBancariaFactory().CrearCuentaBancaria("Ahorro"); //Debe ir un factory que determine que tipo de cuenta se va a crear
+                CuentaBancaria cuentaNueva = new CuentaBancariaFactory().CrearCuentaBancaria("Ahorro"); 
                 cuentaNueva.Nombre = request.Nombre;
                 cuentaNueva.Numero = request.Numero;
                 cuentaNueva.Ciudad = request.Ciudad;

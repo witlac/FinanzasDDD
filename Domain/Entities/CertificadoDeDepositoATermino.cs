@@ -9,15 +9,12 @@ namespace Domain.Entities
     {
 
         public DateTime FechaDeTermino { get; set; }
-
         public DateTime FechaDeInicio { get; set; } 
 
         public bool ConsignacionInicial = true;
 
         public const double MINIMOCONSIGNACION = 1000000;
-
         public double TasaInteres { get; set; }
-
         public double Saldo { get; protected set; }
         public List<MovimientoFinanciero> Movimientos { get; set; }
         public string Nombre { get; set; }
