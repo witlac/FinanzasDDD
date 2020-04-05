@@ -10,6 +10,7 @@ namespace Domain.Entities
         public CuentaBancaria CuentaBancaria { get; set; }
         public double ValorRetiro { get; set; }
         public double ValorConsignacion { get; set; }
+        public string Ciudad { get; set; }
         public DateTime FechaMovimiento { get; set; }
     }
 }

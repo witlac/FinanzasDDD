@@ -6,10 +6,11 @@ namespace Domain.Entities
 {
     public class CuentaCorriente : CuentaBancaria
     {
-        public const double SOBREGIRO = -1000;
         public bool ConsignacionInicial = true;
         private const double MINIMOCONSIGNACION = 100000;
         private const double COSTORETIRO = 4000;
+        public const double SOBREGIRO = 10000;
+
 
         public override void Consignar(double valor,string ciudad)
         {
@@ -75,9 +76,6 @@ namespace Domain.Entities
             }
         }
     }
-
-  
-
 
 
     [Serializable]

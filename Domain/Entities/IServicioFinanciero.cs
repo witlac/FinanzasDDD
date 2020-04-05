@@ -13,7 +13,6 @@ namespace Domain.Entities
 
         void Retirar(double valor);
         void Consignar(double valor,string ciudad);
-        void Trasladar(IServicioFinanciero servicioFinanciero, double valor,string ciudad);
 
     }
 }

@@ -23,7 +23,7 @@ namespace Application
             if (cuenta == null)
             {
 
-                CuentaBancaria cuentaNueva = new CuentaBancariaFactory().CrearCuentaBancaria("Ahorro"); 
+                CuentaBancaria cuentaNueva = new CuentaBancariaFactory().CrearCuentaBancaria(request.TipoCuenta); 
                 cuentaNueva.Nombre = request.Nombre;
                 cuentaNueva.Numero = request.Numero;
                 cuentaNueva.Ciudad = request.Ciudad;
@@ -46,6 +46,7 @@ namespace Application
         public string TipoCuenta { get; set ; }
         public string Numero { get; set; }
         public string Ciudad { get; set; }
+
     }
     public class CrearCuentaBancariaResponse
     {

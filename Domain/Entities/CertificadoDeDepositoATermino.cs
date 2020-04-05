@@ -5,7 +5,7 @@ using Domain.Base;
 
 namespace Domain.Entities
 {
-    public class CertificadoDeDepositoATermino : Entity<int>
+    public class CertificadoDeDepositoATermino : Entity<int>, IServicioFinanciero
     {
 
         public DateTime FechaDeTermino { get; set; }
@@ -26,7 +26,7 @@ namespace Domain.Entities
         }
 
 
-        public void Consignar(double valor)
+        public void Consignar(double valor, string ciudad)
         {
             if (this.ConsignacionInicial == true)
             {

@@ -33,7 +33,7 @@ namespace Domain.Entities
                     }
                     else
                     {
-                        throw new CuentaCorrienteConsignarException("No es posible realizar la consignacion," +
+                        throw new CuentaAhorroConsignarException("No es posible realizar la consignacion," +
                             " la primera consignacion debe ser mayor a 50000");
                     }
                 }
@@ -52,7 +52,7 @@ namespace Domain.Entities
             }
             else
             {
-                throw new CuentaCorrienteConsignarException("No es posible realizar la consignacion, debe ser mayor que 0");
+                throw new CuentaAhorroConsignarException("No es posible realizar la consignacion, debe ser mayor que 0");
             }
 
 
@@ -111,12 +111,12 @@ namespace Domain.Entities
 
     }
 
-    public class CuentaCorrienteConsignarException : Exception
+    public class CuentaAhorroConsignarException : Exception
     {
-        public CuentaCorrienteConsignarException() { }
-        public CuentaCorrienteConsignarException(string message) : base(message) { }
-        public CuentaCorrienteConsignarException(string message, Exception inner) : base(message, inner) { }
-        protected CuentaCorrienteConsignarException(
+        public CuentaAhorroConsignarException() { }
+        public CuentaAhorroConsignarException(string message) : base(message) { }
+        public CuentaAhorroConsignarException(string message, Exception inner) : base(message, inner) { }
+        protected CuentaAhorroConsignarException(
           System.Runtime.Serialization.SerializationInfo info,
           System.Runtime.Serialization.StreamingContext context) : base(info, context) { }
     }

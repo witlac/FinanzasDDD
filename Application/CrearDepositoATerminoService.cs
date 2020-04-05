@@ -16,7 +16,7 @@ namespace Application
         }
         public CrearDepositoATerminoResponse Ejecutar(CrearDepositoATerminoRequest request)
         {
-            CuentaBancaria cuenta = _unitOfWork.CuentaBancariaRepository.FindFirstOrDefault(t => t.Numero == request.Numero);
+            CertificadoDeDepositoATermino cuenta = _unitOfWork.DepositoATerminoRepository.FindFirstOrDefault(t => t.Numero == request.Numero);
             if (cuenta == null)
             {
                 CertificadoDeDepositoATermino cuentaNueva = new CertificadoDeDepositoATermino();  
@@ -32,23 +32,22 @@ namespace Application
             }
         }
 
-        public class CrearDepositoATerminoRequest
-        {
-            public string Nombre { get; set; }
-            public string Numero { get; set; }
-            public DateTime FechaDeTermino { get; set; }
-
-            public DateTime FechaDeInicio { get; set; }
-            public double TasaInteres { get; set; }
-        }
-
-        public class CrearDepositoATerminoResponse
-        {
-            public string Mensaje { get; set; }
-        }
-
-
     }
-   
+
+    public class CrearDepositoATerminoRequest
+    {
+        public string Nombre { get; set; }
+        public string Numero { get; set; }
+        public DateTime FechaDeTermino { get; set; }
+
+        public DateTime FechaDeInicio { get; set; }
+        public double TasaInteres { get; set; }
+    }
+
+    public class CrearDepositoATerminoResponse
+    {
+        public string Mensaje { get; set; }
+    }
+
 }
 

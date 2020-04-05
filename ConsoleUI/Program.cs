@@ -47,11 +47,13 @@ namespace ConsoleUI
 
         private static void CrearDepositoATermino(BancoContext context)
         {
+            #region CrearDeposito
             CrearDepositoATerminoService _service = new CrearDepositoATerminoService(new UnitOfWork(context));
             var requestCrer = new CrearDepositoATerminoRequest() { Numero = "12345", Nombre = "Cristian Mejia",FechaDeInicio=DateTime.Now,FechaDeTermino = new DateTime(2020,3,16) ,TasaInteres=0.02};
             CrearDepositoATerminoResponse responseCrear = _service.Ejecutar(requestCrer);
             System.Console.WriteLine(responseCrear.Mensaje);
             System.Console.ReadKey();
+            #endregion
         }
     }
 }
