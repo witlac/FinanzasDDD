@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ItCDdDi7g1I+vKITulZ7lGlJyHT/PS5cJD0Y9j+xLgQ5vhSQNbLyLj7obWT1FbglQfCoO2SnR1k7oaXzEhjDYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CJ\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\CJ\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cj\\Desktop\\DDDCore3-master\\ConsoleUI\\ConsoleUI.csproj": {}
+    "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\ConsoleUI\\ConsoleUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Application\\Application.csproj": {
+    "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\cj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Application\\obj\\",
+        "projectPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\CJ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +27,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Domain\\Domain.csproj"
+              "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain\\Domain.csproj"
               }
             }
           }
@@ -59,21 +59,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cj\\Desktop\\DDDCore3-master\\ConsoleUI\\ConsoleUI.csproj": {
+    "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cj\\Desktop\\DDDCore3-master\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "C:\\Users\\cj\\Desktop\\DDDCore3-master\\ConsoleUI\\ConsoleUI.csproj",
-        "packagesPath": "C:\\Users\\cj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cj\\Desktop\\DDDCore3-master\\ConsoleUI\\obj\\",
+        "projectPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\ConsoleUI\\ConsoleUI.csproj",
+        "packagesPath": "C:\\Users\\CJ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,11 +86,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Application\\Application.csproj"
+              "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Application\\Application.csproj"
               },
-              "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -130,7 +130,7 @@
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.0.1, 3.0.1]"
+              "version": "[3.0.3, 3.0.3]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
@@ -146,21 +146,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Domain\\Domain.csproj": {
+    "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\cj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\CJ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -201,21 +201,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\cj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\CJ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -228,8 +228,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Domain\\Domain.csproj"
+              "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain\\Domain.csproj"
               }
             }
           }
@@ -287,7 +287,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

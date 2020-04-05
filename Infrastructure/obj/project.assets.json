@@ -4928,19 +4928,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cj\\.nuget\\packages\\": {}
+    "C:\\Users\\CJ\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\cj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\CJ\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\CJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4953,8 +4953,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\cj\\Desktop\\DDDCore3-master\\Domain\\Domain.csproj"
+            "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain\\Domain.csproj"
             }
           }
         }
@@ -5012,7 +5012,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

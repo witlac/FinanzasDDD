@@ -9,13 +9,13 @@ namespace Domain.Entities
         private const double TOPERETIRO = 20000;
         private bool ConsignacionInicial = true;
         private const double MINIMOCONSIGNACION = 50000;
-        private int contadorRetiro=0;
+        private int contadorRetiro = 0;
         private const double VALORRETITO = 5000;
         private const double VALORCONSIGNACION = 10000;
 
-        public override void Consignar(double valor,string ciudad)
+        public override void Consignar(double valor, string ciudad)
         {
-            if(valor != 0)
+            if (valor != 0)
             {
                 if (this.ConsignacionInicial == true)
                 {
@@ -62,7 +62,7 @@ namespace Domain.Entities
         public override void Retirar(double valor)
         {
             double nuevoSaldo = Saldo - valor;
-            if(valor != 0)
+            if (valor != 0)
             {
                 if (nuevoSaldo >= TOPERETIRO)
                 {
@@ -87,6 +87,7 @@ namespace Domain.Entities
 
             }
         }
+
         public void GenerarMovimiento(double valor, string tipo)
         {
             if (tipo == "Consignacion")
@@ -98,7 +99,7 @@ namespace Domain.Entities
                 this.Movimientos.Add(consignacion);
             }
             else
-            if(tipo == "Retiro")
+            if (tipo == "Retiro")
             {
                 MovimientoFinanciero consignacion = new MovimientoFinanciero();
                 consignacion.ValorConsignacion = valor;
@@ -107,7 +108,7 @@ namespace Domain.Entities
                 this.Movimientos.Add(consignacion);
             }
         }
-        }
+
     }
 
     public class CuentaCorrienteConsignarException : Exception
@@ -132,4 +133,5 @@ namespace Domain.Entities
           System.Runtime.Serialization.SerializationInfo info,
           System.Runtime.Serialization.StreamingContext context) : base(info, context) { }
     }
+
 }

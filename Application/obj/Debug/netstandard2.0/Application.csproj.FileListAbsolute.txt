@@ -9,3 +9,15 @@ C:\Users\cj\Desktop\DDDCore3-master\Application\obj\Debug\netstandard2.0\Applica
 C:\Users\cj\Desktop\DDDCore3-master\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
 C:\Users\cj\Desktop\DDDCore3-master\Application\obj\Debug\netstandard2.0\Application.dll
 C:\Users\cj\Desktop\DDDCore3-master\Application\obj\Debug\netstandard2.0\Application.pdb
+I:\DDDCore3-master\Application\bin\Debug\netstandard2.0\Application.deps.json
+I:\DDDCore3-master\Application\bin\Debug\netstandard2.0\Application.dll
+I:\DDDCore3-master\Application\bin\Debug\netstandard2.0\Application.pdb
+I:\DDDCore3-master\Application\bin\Debug\netstandard2.0\Domain.dll
+I:\DDDCore3-master\Application\bin\Debug\netstandard2.0\Domain.pdb
+I:\DDDCore3-master\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+I:\DDDCore3-master\Application\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache
+I:\DDDCore3-master\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+I:\DDDCore3-master\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+I:\DDDCore3-master\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+I:\DDDCore3-master\Application\obj\Debug\netstandard2.0\Application.dll
+I:\DDDCore3-master\Application\obj\Debug\netstandard2.0\Application.pdb

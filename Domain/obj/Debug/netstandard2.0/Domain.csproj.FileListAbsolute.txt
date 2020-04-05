@@ -6,3 +6,9 @@ C:\Users\cj\Desktop\DDDCore3-master\Domain\obj\Debug\netstandard2.0\Domain.Assem
 C:\Users\cj\Desktop\DDDCore3-master\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
 C:\Users\cj\Desktop\DDDCore3-master\Domain\obj\Debug\netstandard2.0\Domain.dll
 C:\Users\cj\Desktop\DDDCore3-master\Domain\obj\Debug\netstandard2.0\Domain.pdb
+I:\DDDCore3-master\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+I:\DDDCore3-master\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+I:\DDDCore3-master\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+I:\DDDCore3-master\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+I:\DDDCore3-master\Domain\obj\Debug\netstandard2.0\Domain.dll
+I:\DDDCore3-master\Domain\obj\Debug\netstandard2.0\Domain.pdb
