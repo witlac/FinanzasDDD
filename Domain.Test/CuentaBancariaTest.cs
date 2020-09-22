@@ -27,7 +27,7 @@ namespace Domain.Test
         public void RetirarTest()
         {
             var cuenta = new CuentaAhorro();
-            cuenta.Numero = "111";
+            cuenta.Numero = "11";
             cuenta.Nombre = "Ahorro Ejemplo";
             cuenta.Ciudad = "Valledupar";
             cuenta.Consignar(100000, "Bogota");

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QyRnpK6V/g5/CeS7fEzf5/ueRWpRKc0bbFp8U0i2lGZGV8JI9xEz5tE3mV4aQvTMO9AnqoZHh7NhaFfb2uLIOw==",
+  "dgSpecHash": "VWZ/JN2lCTQ0qI3MgB4LnBtgICYrcdjF3yuRafN0oLKPmNcue/ey5gv4TPRHuiwDXYewCSHNV2xJ8xUDKe1cTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CJ\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.0.0\\microsoft.aspnetcore.authentication.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\CJ\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.0.0\\microsoft.aspnetcore.authentication.core.2.0.0.nupkg.sha512",

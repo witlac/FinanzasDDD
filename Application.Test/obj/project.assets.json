@@ -6889,11 +6889,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Application.Test\\Application.Test.csproj",
+      "projectUniqueName": "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Application.Test\\Application.Test.csproj",
       "projectName": "Application.Test",
-      "projectPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Application.Test\\Application.Test.csproj",
+      "projectPath": "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Application.Test\\Application.Test.csproj",
       "packagesPath": "C:\\Users\\CJ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Application.Test\\obj\\",
+      "outputPath": "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Application.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6909,11 +6909,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Application\\Application.csproj"
+            "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Application\\Application.csproj"
             },
-            "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -6977,7 +6977,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain.Test\\Domain.Test.csproj": {}
+    "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Domain.Test\\Domain.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain.Test\\Domain.Test.csproj": {
+    "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Domain.Test\\Domain.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain.Test\\Domain.Test.csproj",
+        "projectUniqueName": "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Domain.Test\\Domain.Test.csproj",
         "projectName": "Domain.Test",
-        "projectPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain.Test\\Domain.Test.csproj",
+        "projectPath": "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Domain.Test\\Domain.Test.csproj",
         "packagesPath": "C:\\Users\\CJ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain.Test\\obj\\",
+        "outputPath": "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Domain.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain\\Domain.csproj"
+              "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Domain\\Domain.csproj"
               }
             }
           }
@@ -84,18 +84,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain\\Domain.csproj": {
+    "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\CJ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -139,7 +139,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

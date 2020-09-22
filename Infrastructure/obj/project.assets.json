@@ -4933,11 +4933,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\CJ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4953,8 +4953,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\CJ\\source\\repos\\Finanzas-DDD\\Domain\\Domain.csproj"
+            "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\CJ\\Source\\Repos\\FinanzasDDD\\Domain\\Domain.csproj"
             }
           }
         }
@@ -5012,7 +5012,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
