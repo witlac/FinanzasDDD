@@ -50,7 +50,7 @@ namespace Domain.Test
         public void ConsignarCertificadoDepositoTerminoTest()
         {
             var cuenta = new CertificadoDeDepositoATermino();
-            cuenta.Numero = "111";
+            cuenta.Numero = "11";
             cuenta.Nombre = "Ahorro Ejemplo";
             cuenta.FechaDeInicio = DateTime.Now; 
             cuenta.FechaDeTermino = new DateTime(2020, 3, 4);
