@@ -39,7 +39,7 @@ namespace Domain.Test
         public void ConsignarCuentaCorrienteTest()
         { 
             var cuenta = new CuentaCorriente();
-            cuenta.Numero = "111";
+            cuenta.Numero = "11";
             cuenta.Nombre = "Ahorro Ejemplo";
             cuenta.Ciudad = "Bogota";
             cuenta.Consignar(100000, "valledupar");
